@@ -5,6 +5,7 @@ insurance offers peace of mind by covering damages to the insured vehicle
 and liabilities arising from its use. In the competitive realm of motor insurance, 
 companies strive to offer comprehensive coverage, competitive pricing, and 
 excellent customer service to attract and retain customers. 
+
 This project report delves into the intricacies of the Motor Insurance category 
 during an internship at PhonePe Insurance Brokerage Services. Through 
 comprehensive analyses and strategic interventions, the project aimed to 
@@ -15,6 +16,7 @@ validation checks, successfully integrating standalone Roadside Assistance
 from the project provide valuable recommendations for improving 
 competitiveness and customer satisfaction in the dynamic Motor Insurance 
 landscape. 
+
 Moreover, the project delved into the analysis of premium outliers, aiming to 
 identify discrepancies in pricing strategies and recommend configuration 
 improvements for top insurers. By aligning premium rates with industry 
